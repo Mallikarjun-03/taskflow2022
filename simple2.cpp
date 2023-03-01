@@ -1,4 +1,3 @@
-simple1.cpp
 
 #include <taskflow/taskflow.hpp>  // Taskflow is header-only
 
